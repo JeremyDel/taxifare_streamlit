@@ -5,7 +5,11 @@ Very Simple setup with streamlit for the kaggle New-York dataset. You can find a
 I included very simple visualisations made with folium, altair and seaborn.
 
 # Introduction
-for information on the dataset you can find it here on [Kaggle](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+For information on the dataset you can find it here on [Kaggle](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+
+# About the Taxifare model
+
+Model running on the google cloud platform and with ML flow. Go check TaxiFareModel to check set the set up
 
 ## Setup
 Before everything let us install the requirements provided inside `requirements.txt`
